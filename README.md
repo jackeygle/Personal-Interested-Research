@@ -11,7 +11,7 @@ A comprehensive evaluation harness for testing the safety of Open-Source LLMs (e
 
 ### 2. [RoboTwin: Bimanual Manipulation Benchmark](robotwin/)
 A large-scale benchmark and data generator for bimanual robotic manipulation tasks.
-- **Highlights**: Accepted to **CVPR 2025**. Focuses on domain randomization, digital twins, and robust policy learning.
+- **Highlights**: Focuses on domain randomization, digital twins, and robust policy learning.
 - **Impact**: Provides 100k+ trajectories and standardizes evaluation for dual-arm robots.
 
 ### 3. [Knowledge Distillation](knowledge-distillation/)
